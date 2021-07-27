@@ -16,19 +16,10 @@ public class Stack {
     public Integer pop() {
         if (head == null) {
             return null;
-        } else if (head.next == null) {
-            Integer value = head.value;
-            head = null;
-            return value;
         }
-        Node currentNode = head;
-        Node previousNode = head;
-        while (currentNode.next != null) {
-            previousNode = currentNode;
-            currentNode = currentNode.next;
-        }
-        previousNode.next = null;
-        return currentNode.value;
+        Integer value = head.value;
+        head = head.next;
+        return value;
     }
 
     private class Node {
