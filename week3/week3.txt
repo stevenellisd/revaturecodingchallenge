@@ -1,0 +1,18 @@
+
+Problem 1: Given two Strings A and B. Find the length of the Longest Common Subsequence (LCS) of the given Strings. Input: A = Minneapolis, B = Minnesota.
+
+Problem 2: Write java Program to Find Smallest and Largest Element in an Array.
+Note: Number can not be repeated in the array.
+
+For example:
+1
+2
+3
+4
+5
+6
+
+Logical Reasoning:
+3) This question is based on a certain code language. Understand the logic in the coding and answer the following question.
+
+If PROCESSOR is coded as D4F3C5C1E1S1S1E3C6, what is the code for QUADRANT?
