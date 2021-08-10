@@ -1,0 +1,11 @@
+Write java program to do level order traversal of binary tree. You can use queue data structure to do level order traversal. 
+
+
+
+What day is the fourteenth of a given month?
+
+I. The last day of the month is a Wednesday.
+
+II. The third Saturday of the month was seventeenth. 
+
+Tuesday
